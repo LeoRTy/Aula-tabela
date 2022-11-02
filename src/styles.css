@@ -2,6 +2,24 @@
     box-sizing: border-box;
 }
 
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+body {
+    background-image: url(IMGS/fundo-site4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    overflow: hidden;
+
+   }
+
 .tabela1 {
     border-collapse: collapse;
     background-color: #f2f2f2;
